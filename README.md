@@ -6,7 +6,7 @@ This repository contains an analysis of the monthly Eskom generation capacity br
 
 ## Dataset
 
-The dataset used for this analysis is stored in the `data` directory. It includes monthly data on Eskom's generation capacity and unavailability components. The dataset is named `your_dataset.csv`.
+The dataset used for this analysis is stored in the `data` directory. It includes monthly data on Eskom's generation capacity and unavailability components. The dataset is named `MEGCB.csv`.
 
 ## Analysis
 
